@@ -38,7 +38,6 @@ from . import (
     Telegraph,
     Var,
     allcmds,
-    oreo,
     asst,
     bash,
     call_back,
