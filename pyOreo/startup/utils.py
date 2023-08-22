@@ -50,7 +50,6 @@ def load_addons(plugin_name):
     mod.asst = asst
     mod.tgbot = asst
     mod.ultroid_bot = oreo_bot
-    mod.oreo_bot = ultroid_bot
     mod.tgbot = oreo
     mod.oreo_bot = oreo_bot
     mod.ub = oreo_bot
