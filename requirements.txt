@@ -1,0 +1,5 @@
+# Important Requirements here.
+
+python-decouple
+python-dotenv
+pyUltroid

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# OreO - UserBot
+
+bash resources/session/session.sh
