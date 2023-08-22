@@ -48,7 +48,6 @@ def load_addons(plugin_name):
     mod.LOG_CHANNEL = udB.get_key("LOG_CHANNEL")
     mod.udB = udB
     mod.asst = asst
-    mod.asst = oreo
     mod.tgbot = asst
     mod.ultroid_bot = oreo_bot
     mod.oreo_bot = ultroid_bot
