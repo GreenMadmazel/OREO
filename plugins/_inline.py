@@ -46,8 +46,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/itzNightmare17/OREO"),
-        Button.url("• Support •", url="t.me/OreoSupportChat"),
+        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
+        Button.url("• Support •", url="t.me/UltroidSupportChat"),
     ],
 ]
 
