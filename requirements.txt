@@ -4,5 +4,3 @@ python-decouple
 python-dotenv
 pyUltroid
 telethon
-testresources
-requests
