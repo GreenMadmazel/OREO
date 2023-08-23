@@ -5,4 +5,4 @@ python-dotenv
 pyUltroid
 telethon
 testresources
-requests==2.25.1
+requests
