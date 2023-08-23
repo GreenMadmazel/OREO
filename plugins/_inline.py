@@ -62,11 +62,11 @@ async def inline_alive(o):
     )
     RES = [
         await o.builder.article(
-            type="photo",
+            title="Oreo Userbot",
             text=MSG,
             include_media=True,
             buttons=SUP_BUTTONS,
-            title="Oreo Userbot",
+            #title="Oreo Userbot",
             description="Userbot | Telethon",
             url=TLINK,
             thumb=WEB0,
