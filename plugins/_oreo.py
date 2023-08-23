@@ -59,4 +59,5 @@ async def useOreo(rs):
         buttons=button,
     )
     if not (rs.chat_id == LOG_CHANNEL and rs.client._bot):
+        message_link = f"https://t.me/{chat_id}/{message_id}"
         await eor(rs, f"**[Click Here]({msg.message_link})**")
